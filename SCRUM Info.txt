@@ -1,0 +1,16 @@
+Day 1:
+
+-Add a blueprint that moves a platform up/down or left/right.
+-Add a blueprint that makes a platform rotate at a continuous rate, or rotates periodically with pauses.
+-Add a level blueprint that displays the time on screen.
+-Add a blueprint that teleports the player when touched to another teleporter. A Boolean lets you use them to teleport back.
+-Add a blueprint that gives the player a point when touched and then removes itself.
+
+
+Day 2:
+
+Add a unique texture atlas of static objects/terrain/etc.
+Create three or more sprite objects that pull from that atlas.
+Find and add a player character sprite of your choosing whose atlas comes with suitable animations for what might be needed in the future for your game. Display a single sprite image for now.
+Add assets for two enemies with different locomotion types. (i.e. walker, hopper, flyer, floater, etc.) That will move in the future.
+Layout a themed level, using some of yesterday’s blueprints.
