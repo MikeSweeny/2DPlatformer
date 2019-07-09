@@ -17,6 +17,6 @@
 
 2019/07/09 [User's Name] - Information
 ------------------------------------------------------------------------------------------------------------
-2019/07/09 [Peter Richardson] - Pete joined the project!
-2019/07/09 [Peter Richardson] - Catching up on progress
+2019/07/09 - 02:41PM - [Peter Richardson] - Pete joined the project!
+2019/07/09 - 02:42PM - [Peter Richardson] - Catching up on progress
 
